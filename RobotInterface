@@ -1,0 +1,8 @@
+package robot;
+
+public interface RobotInterface {
+
+	public void start();
+	
+}
+
